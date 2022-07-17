@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=TBang
+Comment=A simple text editor for Linux TeesTa
+Exec=TBang
+Icon=tbang
+Categories=Accessories;

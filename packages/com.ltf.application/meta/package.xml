@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>T!</DisplayName>
+    <Description>TBang - the simple text editor</Description>
+    <Version>0.2</Version>
+    <ReleaseDate>2021-11-27</ReleaseDate>
+    <Licenses>
+        <License name="Mutual License Agreement" file="license.txt" />
+    </Licenses>
+    <Default>script</Default>
+    <Script>installscript.qs</Script>
+    <UserInterfaces>
+        <UserInterface>page.ui</UserInterface>
+    </UserInterfaces>
+</Package>

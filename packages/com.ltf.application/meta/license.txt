@@ -1,0 +1,3 @@
+This software is bound by the Qt5 license/s and other licenses that apply.
+
+Don't just copy it and use it for anything, atleast give credit...
